@@ -6,9 +6,7 @@ chapter: false
 pre: "<b> 1. </b>"
 ---
 
-{{% notice warning %}}
 📌 Đây là nhật ký công việc trong suốt quá trình tham gia chương trình thực tập AWS Cloud Workshop. Nội dung bao gồm mục tiêu, các công việc đã thực hiện và kết quả đạt được theo từng tuần.
-{{% /notice %}}
 
 **Trong trang này** trình bày toàn bộ quá trình thực tập kéo dài **12 tuần**, bao gồm các nội dung từ kiến thức nền tảng về điện toán đám mây AWS đến triển khai hạ tầng, phát triển ứng dụng và thực hiện dự án thực tế.
 

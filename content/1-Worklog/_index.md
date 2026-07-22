@@ -6,9 +6,7 @@ chapter: false
 pre: "<b> 1. </b>"
 ---
 
-{{% notice warning %}}
 📌 This worklog summarizes my learning journey throughout the AWS Cloud Workshop internship. Each week includes objectives, completed tasks, and achievements gained from hands-on practice.
-{{% /notice %}}
 
 **This section** presents the complete **12-week internship program**, covering AWS Cloud fundamentals, infrastructure deployment, cloud services, DevOps practices, Artificial Intelligence, Machine Learning, and a final serverless project demonstration.
 
