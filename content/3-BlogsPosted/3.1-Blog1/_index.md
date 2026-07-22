@@ -8,7 +8,7 @@ pre: " <b> 3.1. </b> "
 
 > 🔗 View the original post at: [AWS Study Group FCJ](https://www.facebook.com/groups/awsstudygroupfcj/posts/2208759786555648)
 
-![Event-Driven Architecture and AWS Security Hub](../../images/blog1.png)
+![Event-Driven Architecture and AWS Security Hub](/FCJ-WorkShop-main/images/blog1.png)
 
 As the number of users and services increases, sitting and opening CloudWatch to monitor logs all day becomes practically impossible. Instead of waiting for operators to detect incidents, prioritizing building the system in an **Event-Driven** direction allows the system itself to automatically detect and handle anomalies.
 

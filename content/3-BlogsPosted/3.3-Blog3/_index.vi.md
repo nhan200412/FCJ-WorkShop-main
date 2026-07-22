@@ -8,7 +8,7 @@ pre: " <b> 3.3. </b> "
 
 > 🔗 Xem bài viết gốc tại: [AWS Study Group FCJ](https://www.facebook.com/share/p/1KMbDkYEfM/)
 
-![Khôi phục phiên bản Kubernetes Amazon EKS](../../images/blog3.png)
+![Khôi phục phiên bản Kubernetes Amazon EKS](/FCJ-WorkShop-main/images/blog3.png)
 
 Trong khi theo dõi các bản cập nhật mới từ AWS, gần đây tôi đã tìm thấy một tính năng cực kỳ đáng chú ý cho Amazon EKS: **"Kubernetes version rollback"** (Hoàn tác phiên bản Kubernetes). Đây là tính năng cho phép hoàn tác việc nâng cấp phiên bản Kubernetes trong vòng **7 ngày** nếu xảy ra sự cố, đưa cluster trở lại trạng thái hoạt động an toàn trước đó.
 

@@ -23,7 +23,7 @@ The main components are organized into **4 layers**: Frontend (Edge & Security),
 
 ### 2. System Architecture Diagram
 
-![HMN Bakery Architecture Diagram](/images/2-Proposal/sodokientruc.png)
+![HMN Bakery Architecture Diagram](/FCJ-WorkShop-main/images/2-Proposal/sodokientruc.png)
 
 ---
 

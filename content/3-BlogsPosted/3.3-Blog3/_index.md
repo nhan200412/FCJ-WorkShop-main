@@ -8,7 +8,7 @@ pre: " <b> 3.3. </b> "
 
 > 🔗 View the original post at: [AWS Study Group FCJ](https://www.facebook.com/share/p/1KMbDkYEfM/)
 
-![Amazon EKS Kubernetes Rollback](../../images/blog3.png)
+![Amazon EKS Kubernetes Rollback](/FCJ-WorkShop-main/images/blog3.png)
 
 While tracking new updates from AWS, I recently found an extremely notable feature for Amazon EKS: **"Kubernetes version rollback"**. This is a feature that allows undoing a Kubernetes version upgrade within **7 days** if an issue occurs, returning the cluster to its previously safe operating state.
 

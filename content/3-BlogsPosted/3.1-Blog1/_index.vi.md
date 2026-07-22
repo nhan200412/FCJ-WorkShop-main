@@ -8,7 +8,7 @@ pre: " <b> 3.1. </b> "
 
 > 🔗 Xem bài viết gốc tại: [AWS Study Group FCJ](https://www.facebook.com/groups/awsstudygroupfcj/posts/2208759786555648)
 
-![Kiến Trúc Event-Driven và AWS Security Hub](../../images/blog1.png)
+![Kiến Trúc Event-Driven và AWS Security Hub](/FCJ-WorkShop-main/images/blog1.png)
 
 Khi số lượng người dùng và dịch vụ tăng lên, việc ngồi mở CloudWatch để theo dõi log cả ngày trở nên bất khả thi trong thực tế. Thay vì chờ đợi người vận hành phát hiện sự cố, việc ưu tiên xây dựng hệ thống theo hướng **Event-Driven** (Hướng sự kiện) cho phép bản thân hệ thống tự động phát hiện và xử lý các bất thường.
 

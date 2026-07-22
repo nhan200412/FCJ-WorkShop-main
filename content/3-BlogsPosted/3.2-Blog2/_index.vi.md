@@ -8,7 +8,7 @@ pre: " <b> 3.2. </b> "
 
 > 🔗 Xem bài viết gốc tại: [AWS Study Group FCJ](https://www.facebook.com/groups/awsstudygroupfcj/posts/2208749799889980)
 
-![Kiến Trúc Serverless Backend](../../images/blog2.png)
+![Kiến Trúc Serverless Backend](/FCJ-WorkShop-main/images/blog2.png)
 
 Bài viết này đề cập đến việc tối ưu hóa Frontend, xử lý logic đặt hàng (Backend) và lưu trữ dữ liệu. Một đặc điểm cụ thể của ngành F&B là khối lượng đơn hàng thường **"tăng vọt" cực cao** vào những khung giờ nhất định.
 
