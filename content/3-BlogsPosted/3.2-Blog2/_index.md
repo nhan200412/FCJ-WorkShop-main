@@ -8,7 +8,7 @@ pre: " <b> 3.2. </b> "
 
 > 🔗 View the original post at: [AWS Study Group FCJ](https://www.facebook.com/groups/awsstudygroupfcj/posts/2208749799889980)
 
-![Serverless Backend Architecture](/images/blog2.png)
+![Serverless Backend Architecture](../../images/blog2.png)
 
 This article covers optimizing the Frontend, handling order placement logic (Backend), and data storage. A specific characteristic of the F&B industry is that order volumes often **"spike" extremely high** during certain hours.
 
