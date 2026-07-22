@@ -12,6 +12,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [params]
   disableLandingPageButton = true
+  disablelandingpagebutton = true
   landingPageURL = "https://nhan200412.github.io/FCJ-WorkShop-main/"
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "workshop"
